@@ -1,1 +1,1 @@
-You can enjoy the game here. (Ping Pong game)[https://pingpongultra.netlify.app/]
+You can enjoy the game here. [https://pingpongultra.netlify.app/](Ping Pong game)
